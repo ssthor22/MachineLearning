@@ -85,7 +85,7 @@ theta = [0.1; 0.2; 0.1; 0.2; 0.1];
 
 %%%% DATA PROCESSING %%%%
 % Load data
-data = load('ex1data2.txt');
+data = load('HousePrices.txt');
 
 % Percent of data to use for training
 p = 0.5; 
